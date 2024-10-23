@@ -40,6 +40,7 @@ console.log(typeof null);
 console.log(typeof true);
 
 
+
 let a,b,c;
 a=44;
 b=44;
