@@ -1,8 +1,6 @@
 // Conersion and operation in js
 
 
-
-
 let score="34abc"
 console.log(typeof score);
 
@@ -16,9 +14,8 @@ console.log(typeof myAge);
 
 console.log(2+2);
 console.log(null>=0);
-console.log('value: ', 2+"4"+2);
-console.log(56>0);
-
+console.log(2+"4"+2);
+console.log(56>0)
 // I don't understand these type of rubbish coding
 
 // Data types are divided into 2 parts primitive and non-primitive
@@ -32,6 +29,12 @@ console.log(id===anotherId);
 let myYoutube= "munshaizhar"
 let anothername="saboo"
 console.log(anothername);
+
+let totalPrice=55;
+let anotherPrice=44;
+console.log(typeof anotherPrice);
+
+
 
 
 

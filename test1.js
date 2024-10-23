@@ -37,6 +37,9 @@ console.log(typeof "munaza")
 console.log(typeof 67);
 console.log(typeof null);
 
+console.log(typeof true);
+
+
 let a,b,c;
 a=44;
 b=44;
