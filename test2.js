@@ -34,6 +34,18 @@ let totalPrice=55;
 let anotherPrice=44;
 console.log(typeof anotherPrice);
 
+// boolean examples
+console.log(2>=1);
+console.log(2==5);
+console.log(5>=11);
+console.log("2">1);
+console.log("02">1);
+
+
+
+
+
+
 
 
 
