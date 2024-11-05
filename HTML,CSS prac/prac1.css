@@ -1,0 +1,58 @@
+*, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.navbar{
+    background-color: rgb(100, 93, 107);
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.btn{
+    color: black;
+    border-radius: 5px;
+    border: 2px solid blue;
+}
+.btn:hover{
+    color: brown;
+    background-color: aqua;
+    
+}
+.input1{
+    text-align: center;
+    color: black;
+}
+
+
+
+
+
+.hero{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.left{
+    width: 500px;
+}
+
+
